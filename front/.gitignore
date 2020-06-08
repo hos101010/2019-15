@@ -26,5 +26,6 @@ yarn-error.log*
 .idea
 
 .env
+package-lock.json
 .vscode/launch.json
 launch.json
